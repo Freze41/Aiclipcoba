@@ -1,0 +1,2 @@
+postgresql://neondb_owner:npg_Yp4OQjo8lFUr@ep-proud-meadow-aox8zhz4-pooler.c-2.ap-southeast-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+JWT_SECRET="rahasia-super-aman-clipper-ai-2026"
